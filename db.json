@@ -59,6 +59,30 @@
       "name": "Fido",
       "isGoodDog": true,
       "image": "https://curriculum-content.s3.amazonaws.com/js/woof-woof/dog_5.jpg"
+    },
+    {
+      "isGoodDog": "Byron",
+      "id": 11
+    },
+    {
+      "isGoodDog": "Byron",
+      "id": 12
+    },
+    {
+      "isGoodDog": "Byron",
+      "id": 13
+    },
+    {
+      "isGoodDog": "Byron",
+      "id": 14
+    },
+    {
+      "isGoodDog": "Byron",
+      "id": 15
+    },
+    {
+      "isGoodDog": "Byron",
+      "id": 16
     }
   ]
 }
